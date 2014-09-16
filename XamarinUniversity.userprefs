@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_Nexus5_API_19" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinUniversity/InstructorAdapter.cs">
+    <Files>
+      <File FileName="XamarinUniversity/MainActivity.cs" Line="85" Column="85" />
+      <File FileName="XamarinUniversity/InstructorAdapter.cs" Line="2" Column="2" />
+      <File FileName="XamarinUniversity/InstructorData.cs" Line="4" Column="4" />
+      <File FileName="XamarinUniversity/ImageAssetManager.cs" Line="1" Column="1" />
+      <File FileName="../../Box Sync/Xamarin/and110-list-views-and-adapters-in-android/Lab Materials/Part 05 Resources/Part5.Completed/XamarinUniversity/XamarinUniversity/InstructorAdapter.cs" Line="2" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinUniversity MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>
